@@ -11,6 +11,19 @@ x <- 4
 x <- 7
 
 
+x <- 8
+
+
+dani <- 0
+
+
 x <- 9
 
+<<<<<<< HEAD
 rafa <- 10
+=======
+#mis tonterias
+
+z <- 9
+
+>>>>>>> master
